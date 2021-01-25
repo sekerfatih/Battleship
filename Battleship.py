@@ -1,5 +1,4 @@
 
-#MUHAMMET FATİH ŞEKER   18010011038
 
 from random import randint
 
